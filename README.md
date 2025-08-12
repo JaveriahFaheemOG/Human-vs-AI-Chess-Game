@@ -52,7 +52,7 @@ cd Human-vs-AI-Chess-Game
 ```bash
 Jupyter notebook
 ```
-4. **Open the chess_game.ipynb notebook and run all cells**
+4. **Open the ChessGame.ipynb notebook and run all cells**
 A Tkinter window will appear for gameplay.
 
 ## 📜 License

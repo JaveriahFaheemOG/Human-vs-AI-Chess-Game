@@ -41,7 +41,7 @@ Make sure you have:
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/your-username/Human-vs-AI-Chess-Game-Notebook.git
+git clone https://github.com/JaveriahFaheemOG/Human-vs-AI-Chess-Game.git
 ```
 2. **Navigate to the project folder**
    Open command prompt and navigate to the folder:
